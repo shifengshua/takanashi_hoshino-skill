@@ -73,10 +73,10 @@ Takanashi_Hoshino-Skill/
 本 Skill 的制作使用了以下工具与开源项目：
 
 | 工具/项目 | 用途 |
-|---|---|
-| Kimi | 数据收集及整理，生成 `Initial-Markdown` 下的原始 Markdown 文档 |
-| GalgameCharacterSkills | 提供图形化操作界面，将 Markdown 文档处理转换为 Skill 成品 |
-| Qwen3.5-9B（本地 AI 模型） | 通过 API 调用生成 Skill 成品的核心内容 |
+|-----------|------|
+| [Kimi](https://www.kimi.com) | 数据收集及整理，生成 `Initial-Markdown` 下的原始 Markdown 文档 |
+| [GalgameCharacterSkills](https://github.com/JodieRuth/GalgameCharacterSkills) | 提供图形化操作界面，将 Markdown 文档处理转换为 Skill 成品 |
+| [Qwen3.5-9B](https://www.modelscope.cn/models/unsloth/Qwen3.5-9B-GGUF)（本地 AI 模型） | 通过 API 调用生成 Skill 成品的核心内容 |
 
 ## 注意事项
 
