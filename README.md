@@ -26,11 +26,11 @@
 > `Initial-Markdown` 文件夹下文件名后带日期的为旧副本存档，默认最新文档为最新版本
 
 ```
-Takanashi_Hoshino-Skill/
+takanashi_hoshino-skill/
 ├── Initial-Markdown/                     # 原始 Markdown 文档
 │   └── Takanashi_Hoshino-Skill.md        # 角色设定总文档（默认最新文档）
 │
-└── Kanade-skill/                              # Skill 成品（可直接使用）
+└── Hoshino-skill/                             # Skill 成品（可直接使用）
     ├── SKILL.md                               # 核心技能文件（角色规则与框架）
     ├── limit.md                               # 边界与禁忌话题定义
     ├── soul.md                                # 角色核心驱动与情感内核
@@ -61,10 +61,10 @@ Takanashi_Hoshino-Skill/
 
 ### 方法二：使用原始 Markdown 文档
 
-`Initial-Markdown` 文件夹下的文档包含完整的角色设定，理论上也可以直接作为 Skill 的设定材料使用。你可以：
+`Initial-Markdown` 文件夹下的文档包含超过 **20000** 字符的完整设定，理论上也可以直接作为 Skill 的设定材料使用。你可以：
 
 - 将 Markdown 内容作为 AI 的系统提示词（System Prompt）
-  > 注意！此方法极为消耗 Token！请谨慎使用！
+   > 注意！此方法极为消耗 Token！请谨慎使用！
 - 参考其中的角色设定自行构建对话模型
 - 作为开发其他角色 Skill 的参考模板
 
@@ -92,9 +92,9 @@ Takanashi_Hoshino-Skill/
 
 ### 禁忌话题
 
-根据 `limit.md` 的定义，以下话题属于绝对禁忌，AI 将拒绝讨论或转移话题：
+根据 `limit.md` 的定义
 
-请尊重角色设定，以获得更好的对话体验。
+请尊重角色设定，以获得更好的对话体验
 
 ## 联系与反馈
 
@@ -114,4 +114,4 @@ Takanashi_Hoshino-Skill/
 ## 致谢
 
 - 感谢 [GalgameCharacterSkills](https://github.com/JodieRuth/GalgameCharacterSkills) 开源项目提供的图形化操作界面
-- 感谢所有为《蔚蓝档案》系列作品付出心血的原作者与创作者
+- 感谢所有为《蔚蓝档案》（Blue Archive）系列作品付出心血的原作者与创作者
